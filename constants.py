@@ -7,7 +7,9 @@ RPC = {
     # Found on https://www.allthatnode.com/polygon.dsrv 
     'polygon': 'https://polygon-mainnet-rpc.allthatnode.com:8545',
     # Found on https://umbria.network/connect/ethereum-testnet-g%C3%B6rli
-    'goerli': 'https://rpc.goerli.mudit.blog/'
+    'goerli': 'https://rpc.goerli.mudit.blog/',
+    # Found via https://chainlist.org/?testnets=true&search=mumbai
+    "mumbai": 'https://rpc-mumbai.maticvigil.com/'
     }
 
 
